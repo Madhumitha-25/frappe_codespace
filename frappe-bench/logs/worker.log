@@ -1,0 +1,31 @@
+2024-04-30 05:52:55,128 Worker rq:worker:e7617f2fe10b4e8a80720927de568517 started with PID 7547, version 1.15.1
+2024-04-30 05:52:55,129 Subscribing to channel rq:pubsub:e7617f2fe10b4e8a80720927de568517
+2024-04-30 05:52:55,131 *** Listening on workspace-frappe-bench:short, workspace-frappe-bench:default, workspace-frappe-bench:long...
+2024-04-30 05:52:55,132 Cleaning registries for queue: workspace-frappe-bench:short
+2024-04-30 05:52:55,133 Cleaning registries for queue: workspace-frappe-bench:default
+2024-04-30 05:52:55,134 Cleaning registries for queue: workspace-frappe-bench:long
+2024-04-30 06:19:55,251 Cleaning registries for queue: workspace-frappe-bench:short
+2024-04-30 06:19:55,252 Cleaning registries for queue: workspace-frappe-bench:default
+2024-04-30 06:19:55,253 Cleaning registries for queue: workspace-frappe-bench:long
+2024-04-30 08:45:46,581 Worker rq:worker:cdaa64109a9d46ddb4e5cf926026ba73 started with PID 2163, version 1.15.1
+2024-04-30 08:45:46,592 Subscribing to channel rq:pubsub:cdaa64109a9d46ddb4e5cf926026ba73
+2024-04-30 08:45:46,597 *** Listening on workspace-frappe-bench:short, workspace-frappe-bench:default, workspace-frappe-bench:long...
+2024-04-30 08:45:46,599 Cleaning registries for queue: workspace-frappe-bench:short
+2024-04-30 08:45:46,600 Cleaning registries for queue: workspace-frappe-bench:default
+2024-04-30 08:45:46,602 Cleaning registries for queue: workspace-frappe-bench:long
+2024-04-30 08:50:34,494 Worker cdaa64109a9d46ddb4e5cf926026ba73 [PID 2163]: warm shut down requested
+2024-04-30 08:50:34,514 Unsubscribing from channel rq:pubsub:cdaa64109a9d46ddb4e5cf926026ba73
+2024-04-30 08:50:43,486 Worker rq:worker:e161f69a77ee42b28e85e8f566f47853 started with PID 3932, version 1.15.1
+2024-04-30 08:50:43,487 Subscribing to channel rq:pubsub:e161f69a77ee42b28e85e8f566f47853
+2024-04-30 08:50:43,494 *** Listening on workspace-frappe-bench:short, workspace-frappe-bench:default, workspace-frappe-bench:long...
+2024-04-30 08:51:35,726 Worker e161f69a77ee42b28e85e8f566f47853 [PID 3932]: warm shut down requested
+2024-04-30 08:51:35,738 Unsubscribing from channel rq:pubsub:e161f69a77ee42b28e85e8f566f47853
+2024-04-30 08:54:11,433 Worker rq:worker:daa37cd48e3f44bb989fc0488960bff5 started with PID 5763, version 1.15.1
+2024-04-30 08:54:11,434 Subscribing to channel rq:pubsub:daa37cd48e3f44bb989fc0488960bff5
+2024-04-30 08:54:11,436 *** Listening on workspace-frappe-bench:short, workspace-frappe-bench:default, workspace-frappe-bench:long...
+2024-04-30 09:07:41,480 Cleaning registries for queue: workspace-frappe-bench:short
+2024-04-30 09:07:41,481 Cleaning registries for queue: workspace-frappe-bench:default
+2024-04-30 09:07:41,482 Cleaning registries for queue: workspace-frappe-bench:long
+2024-04-30 09:34:41,611 Cleaning registries for queue: workspace-frappe-bench:short
+2024-04-30 09:34:41,612 Cleaning registries for queue: workspace-frappe-bench:default
+2024-04-30 09:34:41,613 Cleaning registries for queue: workspace-frappe-bench:long
